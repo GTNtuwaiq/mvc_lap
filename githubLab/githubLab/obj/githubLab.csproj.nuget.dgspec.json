@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taghr\\source\\repos\\githubLab\\githubLab\\githubLab.csproj": {}
+    "C:\\Users\\Taghr\\Desktop\\mvc_lap\\githubLab\\githubLab\\githubLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taghr\\source\\repos\\githubLab\\githubLab\\githubLab.csproj": {
+    "C:\\Users\\Taghr\\Desktop\\mvc_lap\\githubLab\\githubLab\\githubLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taghr\\source\\repos\\githubLab\\githubLab\\githubLab.csproj",
+        "projectUniqueName": "C:\\Users\\Taghr\\Desktop\\mvc_lap\\githubLab\\githubLab\\githubLab.csproj",
         "projectName": "githubLab",
-        "projectPath": "C:\\Users\\Taghr\\source\\repos\\githubLab\\githubLab\\githubLab.csproj",
+        "projectPath": "C:\\Users\\Taghr\\Desktop\\mvc_lap\\githubLab\\githubLab\\githubLab.csproj",
         "packagesPath": "C:\\Users\\Taghr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taghr\\source\\repos\\githubLab\\githubLab\\obj\\",
+        "outputPath": "C:\\Users\\Taghr\\Desktop\\mvc_lap\\githubLab\\githubLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Taghr\\AppData\\Roaming\\NuGet\\NuGet.Config",
