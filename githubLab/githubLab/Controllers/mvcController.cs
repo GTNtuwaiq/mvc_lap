@@ -18,7 +18,7 @@ namespace githubLab.Controllers
         // GET: HomeController1/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            return RedirectToAction("Create");
         }
 
         // GET: HomeController1/Create

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A8822974-3B5C-4058-AE32-33F4A276A939}|Default">
+  <MonoDevelop.Ide.ItemProperties.githubLab PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="githubLab/Controllers/mvcController.cs">
+    <Files>
+      <File FileName="githubLab/Controllers/mvcController.cs" Line="22" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="githubLab" expanded="True">
+            <Node name="githubLab" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="mvcController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
